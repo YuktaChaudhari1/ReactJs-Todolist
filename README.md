@@ -2,6 +2,18 @@
 A simple React-based Todo List application that allows users to add, edit, mark as complete, and delete tasks. This project is ideal for beginners learning React concepts such as state management, component hierarchy, and event handling.
 
 
+![Screenshot 2025-01-22 174200](https://github.com/user-attachments/assets/6cfa1d3d-be88-4a2d-8de9-211f0dc59858)
+
+
+
+
+![Screenshot 2025-01-22 174312](https://github.com/user-attachments/assets/d737b674-8822-4fb0-aaa7-c0337351557f)
+
+
+
+
+![Screenshot 2025-01-22 174404](https://github.com/user-attachments/assets/e1df86a2-6948-47d4-8b25-9c988bc09372)
+
 ## Feature
 <li>Add new tasks with a unique name.</li>
 
