@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body{
+  background-color: #282c34;
+}
+form{
+  width:1170px;
+  margin:auto;
+  display: flex;
+  gap:20px
+}
+.Header{
+  font-size: 34px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  color: white;
+}
+.mainbox input{
+  background-color: #61dafb;
+ height: 40px;
+  flex-basis: 80%;
+  border-radius: 10px;;
+ 
+
+}
+.mainbox button{
+  background-color: #3a2c9f;
+  flex-basis: 20%;
+  border-radius: 5px;
+}
+.ecd{
+  width: 1170px;
+  margin: auto ;
+}
+.ecd ul{
+  margin: 0px;
+  margin-top: 40px;
+  padding: 0px;
+  list-style: none;
+}
+.ecd ul li{
+  padding: 10px;
+  background-color: aliceblue;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.btn-group{
+  display: flex;
+  gap: 10px;
+}
+.ecd ul li button{
+border: none;
+padding: 8px 12px;
+border-radius: 5px;
+   cursor: pointer;
+
+}
+#edit{
+  background-color: green;
+  color: white;
+}
+#complete{
+  background-color: yellow;
+  color: black;
+}
+#delete{
+  background-color: red;
+  color: white;
+}
+.completetodo{
+  text-decoration: line-through;
+  color: #3a2c9f;
+  
+}
