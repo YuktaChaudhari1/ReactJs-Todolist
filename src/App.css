@@ -52,7 +52,7 @@ form{
   color: white;
 }
 .mainbox input{
-  background-color: #61dafb;
+  background-color: #f2fcff;
  height: 40px;
   flex-basis: 80%;
   border-radius: 10px;;
@@ -60,7 +60,7 @@ form{
 
 }
 .mainbox button{
-  background-color: #3a2c9f;
+  background-color: hsl(195, 100%, 87%);
   flex-basis: 20%;
   border-radius: 5px;
 }
