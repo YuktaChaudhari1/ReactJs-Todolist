@@ -22,7 +22,7 @@ A simple React-based Todo List application that allows users to add, edit, mark 
 
 ## How  to Run the Project
 1. clone the Repository
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/YuktaChaudhari1/ReactJs-Todolist.git
    cd todo-list
 
 2.Install Dependencies
